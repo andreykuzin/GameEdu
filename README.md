@@ -13,3 +13,7 @@ Retro arcade games that run in any browser, for use on school arcade machines an
 - **Full screen mode**: the FULL button (touch bar, title screen or pause menu) fills the screen and switches to big thumb zones, with a floating d-pad on the left and a bomb button on the right. Tall screens such as a Fold cover screen get the zones below the game; wide screens get them beside it.
 
 Controls: arrows/WASD to move, Space/Z to drop a bomb, X to detonate, P to pause, M to toggle music. In 2-player battle, P1 uses WASD + Space and P2 uses the arrows + Enter.
+
+## Bomber Blitz for the Retro Arcade
+
+`bomberman-arcade/` is the same game rewritten in MakeCode Arcade for the ElecFreaks Retro Arcade for Education (EF08247). It's split into small, commented files so students can learn game development by changing it and playing the result on the device. See [bomberman-arcade/README.md](bomberman-arcade/README.md) for how to load it and a list of things to try.
