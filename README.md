@@ -16,4 +16,4 @@ Controls: arrows/WASD to move, Space/Z to drop a bomb, X to detonate, P to pause
 
 ## Bomber Blitz for the Retro Arcade
 
-`bomberman-arcade/` is the same game rewritten in MakeCode Arcade for the ElecFreaks Retro Arcade for Education (EF08247). It's split into small, commented files so students can learn game development by changing it and playing the result on the device. See [bomberman-arcade/README.md](bomberman-arcade/README.md) for how to load it and a list of things to try.
+[bomber-blitz-arcade](https://github.com/andreykuzin/bomber-blitz-arcade) is the same game rewritten in MakeCode Arcade for the ElecFreaks Retro Arcade for Education (EF08247). It's split into small, commented files so students can learn game development by changing it and playing the result on the device. It lives in its own repository because MakeCode imports a project only from the root of a repo: in [arcade.makecode.com](https://arcade.makecode.com), choose **Import → Import URL** and paste `https://github.com/andreykuzin/bomber-blitz-arcade`.
