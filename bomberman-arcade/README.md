@@ -1,6 +1,6 @@
 # Bomber Blitz for the Retro Arcade
 
-A MakeCode Arcade port of [Bomber Blitz](../bomberman/index.html) for the ElecFreaks **Retro Arcade for Education (EF08247)**. It is written in MakeCode's TypeScript (JavaScript) so students can read it, change it and play their changes on the real device.
+A MakeCode Arcade port of [Bomber Blitz](https://github.com/andreykuzin/GameEdu/tree/main/bomberman), part of [GameEdu](https://github.com/andreykuzin/GameEdu), for the ElecFreaks **Retro Arcade for Education (EF08247)**. It is written in MakeCode's TypeScript (JavaScript) so students can read it, change it and play their changes on the real device.
 
 ## What's in the game
 
@@ -22,7 +22,7 @@ In the browser simulator: arrow keys move, **Z** = A, **X** = B, **`** (backtick
 
 ## Put it on your Retro Arcade
 
-1. Open [arcade.makecode.com](https://arcade.makecode.com), choose **Import → Import URL**, and paste `https://github.com/andreykuzin/GameEdu/bomberman-arcade` (this works once the project is on the `main` branch).
+1. Open [arcade.makecode.com](https://arcade.makecode.com), choose **Import → Import URL**, and paste `https://github.com/andreykuzin/bomber-blitz-arcade`.
 2. Connect the Retro to your computer with a USB-C cable.
 3. In MakeCode, click the **…** next to Download, choose **Choose hardware**, and pick **Retro Arcade for Education** (the "F4" board).
 4. Press the Retro's reset button once to show its download screen.
